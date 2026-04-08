@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "South Bay Wood Restoration: Exterior Wood Staining Pros",
+    "phone": "+16503802384",
+    "category": "deck contractor",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Exterior Wood Staining Pros",
+      "heroSubline": "Protect and beautify your wood surfaces. Expert staining services in San Jose.",
+      "aboutTitle": "Preserving Wood, Enhancing Homes",
+      "aboutText": [
+        "South Bay Wood Restoration started with a simple mission: to bring lasting beauty and protection to the homes of San Jose. Frustrated by seeing decks and fences succumb to the elements, we committed ourselves to mastering the art of wood staining and restoration.",
+        "We believe in doing things right the first time. Our approach combines meticulous preparation, premium-grade stains, and proven application techniques. We don't cut corners, and we stand behind our work with pride.",
+        "We're not just contractors; we're your neighbors. We understand the unique challenges our local climate poses to wood structures, and we're dedicated to providing solutions that stand the test of time. We source materials locally whenever possible and actively support community initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience deliver flawless finishes and lasting protection."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest-quality stains and sealants for superior results."
+        },
+        {
+          "title": "Detailed Preparation",
+          "description": "Proper prep work is key – we meticulously clean and repair surfaces before staining."
+        },
+        {
+          "title": "Lasting Protection",
+          "description": "Our staining process protects against sun, moisture, and decay."
+        }
+      ],
+      "ctaHeadline": "Protect Your Wood Today",
+      "ctaSubline": "Get a free quote for expert wood staining services in San Jose."
+    },
+    "services": [
+      {
+        "slug": "deck-staining",
+        "name": "Deck Staining",
+        "shortDescription": "Protect and beautify your deck with our expert staining services.",
+        "description": "San Jose decks take a beating from the sun and occasional rain. Our deck staining service is designed to combat these challenges, providing long-lasting protection and enhancing the natural beauty of your wood. We start with a thorough cleaning and inspection, addressing any repairs needed. Next, we carefully apply a premium-grade stain that penetrates deep into the wood, providing superior protection against moisture, UV rays, and mildew. We offer a wide range of colors and finishes to match your personal style and complement your home's exterior. Our attention to detail ensures a smooth, even finish that will look great for years to come. We serve Willow Glen to Almaden Valley, and beyond.",
+        "process": [
+          "Step 1: Thorough cleaning and inspection of the deck surface.",
+          "Step 2: Repair any damaged or rotted wood.",
+          "Step 3: Apply a high-quality wood stain, chosen for its weather resistance and color retention.",
+          "Step 4: Apply a sealant to further protect the wood from moisture and UV damage."
+        ],
+        "benefits": [
+          "Enhanced deck appearance",
+          "Protection against weather damage",
+          "Increased deck lifespan",
+          "Improved home value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain my deck?",
+            "answer": "Typically, decks should be stained every 2-3 years, depending on the type of wood, exposure to the elements, and the quality of the stain used."
+          },
+          {
+            "question": "What kind of stain do you use?",
+            "answer": "We use premium-grade, oil-based or water-based stains from trusted brands known for their durability and color retention. We'll help you choose the best option for your specific deck and aesthetic preferences."
+          },
+          {
+            "question": "Do I need to be home during the staining process?",
+            "answer": "It's not necessary for you to be home, but we'll communicate with you throughout the process and address any questions or concerns you may have."
+          }
+        ]
+      },
+      {
+        "slug": "fence-staining",
+        "name": "Fence Staining",
+        "shortDescription": "Extend the life of your fence with our professional fence staining services.",
+        "description": "A well-maintained fence not only enhances your property's curb appeal but also provides security and privacy. Our fence staining service protects your fence from the harsh California sun, moisture, and insect damage. We begin by power washing the fence to remove dirt, mildew, and loose paint. Then, we apply a high-quality stain that penetrates the wood, providing long-lasting protection and a beautiful finish. We offer a variety of stain colors and opacity levels to suit your desired look. Whether you have a redwood, cedar, or pine fence, we have the expertise to deliver exceptional results. Serving the entire South Bay.",
+        "process": [
+          "Step 1: Power wash the fence to remove dirt, mildew, and loose paint.",
+          "Step 2: Repair any damaged or broken fence boards.",
+          "Step 3: Apply a high-quality wood stain, chosen for its durability and weather resistance.",
+          "Step 4: Allow the stain to dry properly for maximum protection."
+        ],
+        "benefits": [
+          "Increased fence lifespan",
+          "Enhanced curb appeal",
+          "Protection from weather and pests",
+          "Improved property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does fence staining take?",
+            "answer": "The duration depends on the size and condition of the fence, but most fence staining projects can be completed in 1-2 days."
+          },
+          {
+            "question": "What type of stain is best for my fence?",
+            "answer": "The best type of stain depends on the type of wood, your desired look, and the level of protection you need. We can help you choose the right stain for your specific fence."
+          },
+          {
+            "question": "Do you offer any warranty on your fence staining services?",
+            "answer": "Yes, we offer a warranty on our workmanship and the quality of the stain we use. Contact us for more details."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-staining",
+        "name": "Wood Siding Staining",
+        "shortDescription": "Protect your home's wood siding with our professional staining services.",
+        "description": "Wood siding adds warmth and character to your home, but it requires regular maintenance to protect it from the elements. Our wood siding staining service provides a durable and beautiful finish that will enhance your home's curb appeal and protect it from moisture, UV rays, and insect damage. We begin by thoroughly cleaning the siding to remove dirt, mildew, and loose paint. Then, we apply a high-quality stain that penetrates the wood, providing long-lasting protection and a rich, vibrant color. We work with all types of wood siding, including cedar, redwood, and pine. We know the climate of San Jose well and how it impacts your siding.",
+        "process": [
+          "Step 1: Thoroughly clean the wood siding to remove dirt, mildew, and loose paint.",
+          "Step 2: Repair any damaged or rotten wood siding.",
+          "Step 3: Apply a high-quality wood stain, chosen for its durability and weather resistance.",
+          "Step 4: Ensure proper ventilation for optimal drying and curing."
+        ],
+        "benefits": [
+          "Enhanced home appearance",
+          "Protection against weather damage",
+          "Increased home value",
+          "Extended siding lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain my wood siding?",
+            "answer": "Wood siding should be stained every 3-5 years, depending on the type of wood, exposure to the elements, and the quality of the stain used."
+          },
+          {
+            "question": "Can you match the existing stain color?",
+            "answer": "Yes, we can match the existing stain color using our color matching technology."
+          },
+          {
+            "question": "What if I have lead paint on my siding?",
+            "answer": "We are certified and trained to handle lead paint safely and will follow all EPA guidelines during the staining process."
+          }
+        ]
+      },
+      {
+        "slug": "pergola-staining",
+        "name": "Pergola Staining",
+        "shortDescription": "Enhance and protect your pergola with our expert staining services.",
+        "description": "A pergola adds a touch of elegance and shade to your outdoor living space. Our pergola staining service protects your pergola from the elements, preventing rot, decay, and fading. We start by cleaning the pergola to remove dirt, mildew, and loose paint. Then, we apply a high-quality stain that penetrates the wood, providing long-lasting protection and a beautiful finish. We offer a variety of stain colors and opacity levels to complement your home's exterior and landscaping. We understand the importance of proper application techniques to ensure a smooth, even finish that will look great for years to come. Serving San Jose and surrounding communities.",
+        "process": [
+          "Step 1: Clean the pergola thoroughly to remove dirt, mildew, and loose paint.",
+          "Step 2: Repair any damaged or rotten wood on the pergola.",
+          "Step 3: Apply a high-quality wood stain, chosen for its durability and weather resistance.",
+          "Step 4: Allow the stain to dry properly before using the pergola."
+        ],
+        "benefits": [
+          "Enhanced pergola appearance",
+          "Protection from weather damage",
+          "Increased pergola lifespan",
+          "Improved outdoor living space"
+        ],
+        "faq": [
+          {
+            "question": "How long does pergola staining take?",
+            "answer": "The duration depends on the size and complexity of the pergola, but most pergola staining projects can be completed in 1-2 days."
+          },
+          {
+            "question": "What type of stain is best for a pergola?",
+            "answer": "The best type of stain depends on the type of wood, your desired look, and the level of protection you need. We can help you choose the right stain for your specific pergola."
+          },
+          {
+            "question": "Do you offer any maintenance tips for stained pergolas?",
+            "answer": "Yes, we can provide you with maintenance tips to help keep your stained pergola looking its best for years to come."
+          }
+        ]
+      },
+      {
+        "slug": "wood-furniture-staining",
+        "name": "Wood Furniture Staining",
+        "shortDescription": "Restore and protect your outdoor wood furniture with our staining services.",
+        "description": "Outdoor wood furniture can add beauty and comfort to your patio or deck, but it's vulnerable to the elements. Our wood furniture staining service protects your furniture from sun, moisture, and wear. We carefully clean and prepare the furniture, removing any dirt, mildew, or old finish. Then, we apply a high-quality stain that enhances the wood's natural grain and provides long-lasting protection. We offer a wide range of stain colors and finishes to match your personal style. We serve the entire San Jose area and surrounding cities.",
+        "process": [
+          "Step 1: Carefully clean and prepare the wood furniture.",
+          "Step 2: Remove any existing finish or loose paint.",
+          "Step 3: Apply a high-quality wood stain, chosen for its durability and weather resistance.",
+          "Step 4: Allow the stain to dry properly before using the furniture."
+        ],
+        "benefits": [
+          "Enhanced furniture appearance",
+          "Protection from weather damage",
+          "Increased furniture lifespan",
+          "Improved outdoor living space"
+        ],
+        "faq": [
+          {
+            "question": "Can you stain furniture that has already been stained?",
+            "answer": "Yes, we can stain furniture that has already been stained, but we may need to sand it down first to ensure proper adhesion."
+          },
+          {
+            "question": "What if my furniture has mildew?",
+            "answer": "We will treat the furniture with a mildewcide before staining to prevent it from returning."
+          },
+          {
+            "question": "Do you offer pick-up and delivery services?",
+            "answer": "Yes, we offer pick-up and delivery services for your convenience."
+          }
+        ]
+      },
+      {
+        "slug": "wood-trim-staining",
+        "name": "Wood Trim Staining",
+        "shortDescription": "Accentuate your home's architectural details with our wood trim staining.",
+        "description": "Wood trim adds a touch of elegance and sophistication to your home, both inside and out. Our wood trim staining service protects your trim from moisture, UV rays, and wear. We carefully prepare the trim, cleaning and sanding it to ensure a smooth, even finish. Then, we apply a high-quality stain that enhances the wood's natural grain and complements your home's color scheme. We offer a wide range of stain colors and finishes to suit your desired look. From Willow Glen bungalows to modern Almaden Valley homes, we work on all types of houses.",
+        "process": [
+          "Step 1: Carefully prepare the wood trim by cleaning and sanding it.",
+          "Step 2: Apply a wood conditioner to ensure even stain absorption.",
+          "Step 3: Apply a high-quality wood stain, chosen for its durability and color retention.",
+          "Step 4: Apply a sealant to protect the stained trim from moisture and UV damage."
+        ],
+        "benefits": [
+          "Enhanced home appearance",
+          "Protection from weather damage",
+          "Increased home value",
+          "Extended trim lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Can you stain interior wood trim?",
+            "answer": "Yes, we can stain both interior and exterior wood trim."
+          },
+          {
+            "question": "What if my trim has knots?",
+            "answer": "We will use a knot sealer to prevent the knots from bleeding through the stain."
+          },
+          {
+            "question": "Do you offer free estimates?",
+            "answer": "Yes, we offer free estimates for all of our wood staining services."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Jose",
+        "slug": "san-jose-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros is proud to serve the vibrant community of San Jose, California. We understand the unique challenges that the San Jose climate presents to exterior wood surfaces, from intense summer sun to occasional damp winters. Our expert team provides tailored wood staining and restoration services to protect and beautify your decks, fences, siding, and more. \n\nWe are committed to using only the highest quality products and proven techniques to ensure long-lasting results. Whether you're in Willow Glen, Almaden Valley, or downtown San Jose, we're ready to help you enhance your property's curb appeal and protect your investment. Contact us today for a free consultation and let us bring out the natural beauty of your wood.",
+        "localContext": "San Jose is the largest city in Northern California and a hub for technology and innovation, known for its diverse neighborhoods and thriving cultural scene.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Sunnyvale",
+          "Milpitas"
+        ]
+      },
+      {
+        "city": "Santa Clara",
+        "slug": "santa-clara-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros extends its expert services to Santa Clara, California. We recognize the importance of maintaining the beauty and integrity of your exterior wood surfaces in Santa Clara's varied climate. Our skilled technicians are equipped to handle all your wood staining and restoration needs, from decks and fences to siding and trim.\n\nWe prioritize customer satisfaction and strive to exceed your expectations with every project. Whether you're located near Levi's Stadium or in the historic Old Quad neighborhood, we're dedicated to providing top-notch service and exceptional results. Let us help you protect and enhance your property's value with our professional wood staining and restoration solutions.",
+        "localContext": "Santa Clara is a major technology hub in Silicon Valley, home to numerous tech companies and known for its family-friendly atmosphere.",
+        "nearbyAreas": [
+          "San Jose",
+          "Sunnyvale",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Sunnyvale",
+        "slug": "sunnyvale-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros is your trusted partner for exterior wood staining and restoration in Sunnyvale, California. We understand the specific needs of Sunnyvale homeowners and businesses when it comes to protecting their wood surfaces from the elements. Our experienced team offers a comprehensive range of services, including deck staining, fence restoration, and siding refinishing.\n\nWe use only premium-quality products and employ industry-leading techniques to ensure long-lasting protection and a beautiful finish. Whether you're in the Heritage District or near Moffett Federal Airfield, we're committed to providing exceptional service and exceeding your expectations. Contact us today for a free estimate and let us help you enhance your property's curb appeal.",
+        "localContext": "Sunnyvale is a city in Silicon Valley known for its aerospace and technology industries, as well as its diverse community and excellent schools.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Mountain View",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Cupertino",
+        "slug": "cupertino-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros proudly serves the residents and businesses of Cupertino, California. We understand the importance of maintaining the beauty and value of your property, and our expert wood staining and restoration services are designed to do just that. Whether you need your deck stained, your fence restored, or your siding refinished, we've got you covered.\n\nWe are committed to providing exceptional service and using only the highest quality products. Whether you're near Apple Park or in the Monta Vista neighborhood, we're dedicated to exceeding your expectations. Contact us today for a free consultation and let us help you protect and enhance your investment.",
+        "localContext": "Cupertino is best known as the home of Apple Inc. and is characterized by its high-achieving schools and affluent residential areas.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "San Jose",
+          "Saratoga"
+        ]
+      },
+      {
+        "city": "Los Gatos",
+        "slug": "los-gatos-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros is pleased to offer our professional wood staining and restoration services to the community of Los Gatos, California. We recognize the importance of preserving the natural beauty of Los Gatos homes and businesses, and our expert team is dedicated to providing exceptional results. From deck staining to fence repair, we offer a comprehensive range of services to meet your needs.\n\nWe use only top-of-the-line products and proven techniques to ensure long-lasting protection and a stunning finish. Whether you're in the downtown area or nestled in the hills, we're committed to exceeding your expectations. Contact us today for a free quote and let us help you enhance your property's curb appeal.",
+        "localContext": "Los Gatos is a charming town in the foothills of the Santa Cruz Mountains, known for its upscale shops, restaurants, and beautiful natural surroundings.",
+        "nearbyAreas": [
+          "Saratoga",
+          "Campbell",
+          "San Jose"
+        ]
+      },
+      {
+        "city": "Milpitas",
+        "slug": "milpitas-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros is dedicated to serving the community of Milpitas, California with top-quality exterior wood staining and restoration services. We understand the unique challenges that the Milpitas climate presents to wood surfaces, and we're equipped to provide tailored solutions to protect and beautify your property. Our services include deck staining, fence restoration, and siding refinishing.\n\nWe prioritize customer satisfaction and strive to exceed your expectations with every project. Whether you're in the Midtown area or near the Great Mall, we're committed to providing exceptional service and outstanding results. Contact us today for a free consultation and let us help you enhance your property's value.",
+        "localContext": "Milpitas is a diverse city in the South Bay known for its large shopping mall, industrial parks, and growing residential areas.",
+        "nearbyAreas": [
+          "San Jose",
+          "Fremont",
+          "Sunnyvale"
+        ]
+      },
+      {
+        "city": "Campbell",
+        "slug": "campbell-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros is proud to offer our expert wood staining and restoration services to the residents and businesses of Campbell, California. We understand the importance of maintaining the beauty and integrity of your exterior wood surfaces in Campbell's climate. Our skilled technicians are equipped to handle all your wood staining and restoration needs, from decks and fences to siding and trim.\n\nWe prioritize customer satisfaction and strive to exceed your expectations with every project. Whether you're located near Downtown Campbell or in the Pruneyard Shopping Center area, we're dedicated to providing top-notch service and exceptional results. Let us help you protect and enhance your property's value with our professional wood staining and restoration solutions.",
+        "localContext": "Campbell is a vibrant city in the heart of Silicon Valley, known for its lively downtown area, farmers market, and community events.",
+        "nearbyAreas": [
+          "San Jose",
+          "Los Gatos",
+          "Saratoga"
+        ]
+      },
+      {
+        "city": "Saratoga",
+        "slug": "saratoga-ca",
+        "state": "CA",
+        "content": "South Bay Wood Restoration: Exterior Wood Staining Pros is happy to serve the Saratoga, California community! We understand the need to maintain the beauty and integrity of your property's exterior wood. Our skilled technicians are equipped to handle all your wood staining and restoration needs, from decks and fences to siding and trim. \n\nWe use only the highest quality products and proven techniques to ensure long-lasting results. Whether you're near Hakone Estate and Gardens, or in the downtown Saratoga area, we're dedicated to providing top-notch service and exceptional results. Let us help you protect and enhance your property's value with our professional wood staining and restoration solutions.",
+        "localContext": "Saratoga is an affluent community in the foothills of the Santa Cruz Mountains, known for its excellent schools, wineries, and scenic beauty.",
+        "nearbyAreas": [
+          "Los Gatos",
+          "Monte Sereno",
+          "Cupertino"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Deck Staining",
+        "text": "South Bay Wood Restoration did an amazing job on our deck! It was faded and worn, but they brought it back to life with a beautiful new stain. The crew was professional, efficient, and paid attention to every detail. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Fence Staining",
+        "text": "Our fence was looking pretty rough after a few years of neglect. South Bay Wood Restoration stained it, and it looks fantastic! A few minor communication hiccups, but the end result was worth it. Definitely improved our curb appeal.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Wood Siding Staining",
+        "text": "We had our wood siding stained by South Bay Wood Restoration, and we couldn't be happier with the results. The color is perfect, and the siding looks brand new. The team was professional and courteous, and they completed the job on time and within budget.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Pergola Staining",
+        "text": "Our pergola was starting to show its age, so we hired South Bay Wood Restoration to stain it. They did an excellent job, and it now looks beautiful and protected from the elements. Great service and fair pricing!",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Wood Furniture Staining",
+        "text": "South Bay Wood Restoration stained our outdoor wood furniture, and it looks great! The furniture was faded and worn, but they brought it back to life with a beautiful new stain. The only reason I didn't give 5 stars is that it took a little longer than expected, but the quality of the work was excellent.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Deck Staining",
+        "text": "These guys are the real deal. My deck was in terrible shape - South Bay Wood Restoration not only stained it beautifully but also repaired some significant damage. Honest, hardworking, and skilled. Highly recommend!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "South Bay Wood Restoration",
+        "description": "San Jose's top wood staining contractor. Decks, fences, siding & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | South Bay Wood Restoration",
+        "description": "Learn about South Bay Wood Restoration's commitment to quality wood staining and customer satisfaction."
+      },
+      "services": {
+        "title": "Wood Staining Services | San Jose",
+        "description": "Expert deck, fence, and siding staining services in San Jose. Protect and beautify your wood surfaces."
+      },
+      "contact": {
+        "title": "Contact | South Bay Wood Restoration",
+        "description": "Contact South Bay Wood Restoration for a free quote on your wood staining project in San Jose."
+      },
+      "reviews": {
+        "title": "Reviews | South Bay Wood Restoration",
+        "description": "See what our satisfied customers are saying about our wood staining services in San Jose."
+      },
+      "service-areas": {
+        "title": "Service Areas | South Bay Wood Restoration",
+        "description": "South Bay Wood Restoration provides wood staining services to San Jose and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "deck-staining": "/images/service-deck-staining.webp",
+      "fence-staining": "/images/service-fence-staining.webp",
+      "wood-siding-staining": "/images/service-wood-siding-staining.webp",
+      "pergola-staining": "/images/service-pergola-staining.webp",
+      "wood-furniture-staining": "/images/service-wood-furniture-staining.webp",
+      "wood-trim-staining": "/images/service-wood-trim-staining.webp"
+    },
+    "servicesResponsive": {
+      "deck-staining": {
+        "src": "/images/service-deck-staining.webp",
+        "srcset": "/images/service-deck-staining-400w.webp 400w, /images/service-deck-staining-800w.webp 800w, /images/service-deck-staining-1200w.webp 1200w, /images/service-deck-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-staining": {
+        "src": "/images/service-fence-staining.webp",
+        "srcset": "/images/service-fence-staining-400w.webp 400w, /images/service-fence-staining-800w.webp 800w, /images/service-fence-staining-1200w.webp 1200w, /images/service-fence-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-staining": {
+        "src": "/images/service-wood-siding-staining.webp",
+        "srcset": "/images/service-wood-siding-staining-400w.webp 400w, /images/service-wood-siding-staining-800w.webp 800w, /images/service-wood-siding-staining-1200w.webp 1200w, /images/service-wood-siding-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergola-staining": {
+        "src": "/images/service-pergola-staining.webp",
+        "srcset": "/images/service-pergola-staining-400w.webp 400w, /images/service-pergola-staining-800w.webp 800w, /images/service-pergola-staining-1200w.webp 1200w, /images/service-pergola-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-furniture-staining": {
+        "src": "/images/service-wood-furniture-staining.webp",
+        "srcset": "/images/service-wood-furniture-staining-400w.webp 400w, /images/service-wood-furniture-staining-800w.webp 800w, /images/service-wood-furniture-staining-1200w.webp 1200w, /images/service-wood-furniture-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-trim-staining": {
+        "src": "/images/service-wood-trim-staining.webp",
+        "srcset": "/images/service-wood-trim-staining-400w.webp 400w, /images/service-wood-trim-staining-800w.webp 800w, /images/service-wood-trim-staining-1200w.webp 1200w, /images/service-wood-trim-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
